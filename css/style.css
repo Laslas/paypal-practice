@@ -199,3 +199,152 @@
   .stats__footer {
       padding-top: 30px;
   }
+
+  .services {
+    background-color: #009cde;
+    padding: 40px 0;
+  }
+
+  .service__content {
+    padding: 0 36px; 
+    display: flex;
+    flex-direction: column;
+    align-items: space-between;
+    text-align: center;
+    padding: 0 48px;   
+  }
+
+  .service__text {
+    padding: 0 12px 40px;
+    color: #fff;    
+  }
+
+  .service__text-title {
+    padding-top: 40px;
+    font-size: 20px;
+    font-size: 40px;
+  }
+
+.service__text-para {
+  font-size: 20px;
+  padding-top: 20px;
+}
+
+.service__panel-holder {
+  display: flex;
+  align-items: flex-start; 
+  text-align: left; 
+  
+  }
+
+.service_panel {
+  width: 25%;
+  padding: 0 12px;
+
+ }
+
+.service__panel-image {
+  margin: 20px 0 30px;
+  width: 50px;
+  height: 50px;
+}
+
+.panel-text {
+  margin-bottom: 5px;
+  min-height: 75px;
+  
+}
+
+.panel-text-para {
+  margin-top: 5px;
+}
+.service__panel-text {
+  padding-bottom: 5px;
+  font-size: 20px;
+  color: #fff;
+  margin-bottom: 5px;
+}
+
+.service__panel-para {
+  color: #fff;
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+.showcase {
+  background-color: #fff;
+  padding: 40px 0;
+}
+
+.showcase__container {   
+  display: flex;
+  flex-direction: column;
+  text-align: center; 
+}
+
+.showcase-header-div {
+  padding-bottom: 30px;
+  margin: 0 -12px;
+}
+
+.showcase-header-div:after {
+  content: "";
+  display: block;
+  border-bottom: 1px dotted #cccccc;
+  margin-top: 30px ;
+  padding: 0 20px;
+}
+.showcase-header {
+  color: #4A4A4A;
+  padding: 0 12px;
+  font-size: 40px;
+}
+
+.showcase-panel {
+  margin: 0 -12px;
+  padding: 30px 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+.panel-image {
+  padding: 0 -12px;
+  width: 25%;
+}
+
+.captionbtn {
+  padding: 60px 0;
+  background-color: #f5f7fa;
+}
+
+.caption_btn {
+  padding: 0 12px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+
+.caption__btn-caption {
+  color: #4A4A4A;
+  font-size: 40px;
+}
+
+.caption__btn-btn {
+  background-color: #0070ba;
+  margin: 15px;
+  border-radius: 35px;
+  width: 300px;
+  padding: 12px 10px;
+  display: inline-block;
+  border: 0px;  
+}
+
+.caption__btn-link {
+  color: #fff;
+  font-weight: normal;
+  margin: 20px 0 10px 0;
+  padding-top: 20px;
+  text-shadow: 0 0 1px #fff;
+}
+
