@@ -603,9 +603,3 @@ body {
 
 
 
-/*media queries */
-
-@media (min-width: 1024px) {
-  min-height: 480px;
-  padding: 60px 0;
-}
